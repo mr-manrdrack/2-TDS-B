@@ -1,0 +1,3 @@
+Este código só funcionará a partir do momento que você fizer a conexão do PHP com o MySql.
+Ultilize main.php para testes.
+phpatemp.php está completo.
